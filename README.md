@@ -15,4 +15,4 @@ Steps failed:
 
 6. Calc win % on days when raining - ""
 
-7. Adding to MongoDB
+7. Adding to MongoDB - compass would not open
